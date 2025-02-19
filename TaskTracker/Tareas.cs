@@ -24,7 +24,7 @@ namespace TaskTracker
         public string? Description { get; set; }
 
         [JsonPropertyName("statusEnum")]
-        public Status StatusEnum { get; set; }
+        public Status? StatusEnum { get; set; }
 
         public DateTime? createdAt { get; set; }
 
@@ -49,10 +49,11 @@ namespace TaskTracker
 
     }
 
+    [JsonConverter(typeof(JsonStringEnumConverter))]
     public enum Status
     {
-        todo = 1,
-        in_progress = 2,
-        done = 3
+        todo,
+        in_progress,
+        done
     }
 }

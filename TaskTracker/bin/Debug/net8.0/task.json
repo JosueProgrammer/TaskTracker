@@ -1,23 +1,16 @@
 [
   {
-    "_ID": 0,
-    "description": "culear rico",
-    "statusEnum": 1,
-    "createdAt": "2025-02-19T03:10:08.8989788Z",
-    "updatedAt": "2025-02-19T03:10:08.899062Z"
-  },
-  {
     "_ID": 1,
-    "description": "follar",
-    "statusEnum": 1,
-    "createdAt": "2025-02-19T03:10:40.5736422Z",
-    "updatedAt": "2025-02-19T03:10:40.573643Z"
+    "description": "avanzar en c",
+    "statusEnum": "todo",
+    "createdAt": "2025-02-19T05:22:43.638648Z",
+    "updatedAt": "2025-02-19T05:22:43.6389604Z"
   },
   {
     "_ID": 2,
-    "description": "planchar",
-    "statusEnum": 1,
-    "createdAt": "2025-02-19T03:10:52.5350723Z",
-    "updatedAt": "2025-02-19T03:10:52.5350727Z"
+    "description": "publicar contenido de futbol en youtube",
+    "statusEnum": "in_progress",
+    "createdAt": "2025-02-19T05:23:07.0404981Z",
+    "updatedAt": "2025-02-19T05:23:07.0404987Z"
   }
 ]
