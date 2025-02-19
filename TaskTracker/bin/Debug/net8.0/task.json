@@ -1,0 +1,23 @@
+[
+  {
+    "_ID": 0,
+    "description": "culear rico",
+    "statusEnum": 1,
+    "createdAt": "2025-02-19T03:10:08.8989788Z",
+    "updatedAt": "2025-02-19T03:10:08.899062Z"
+  },
+  {
+    "_ID": 1,
+    "description": "follar",
+    "statusEnum": 1,
+    "createdAt": "2025-02-19T03:10:40.5736422Z",
+    "updatedAt": "2025-02-19T03:10:40.573643Z"
+  },
+  {
+    "_ID": 2,
+    "description": "planchar",
+    "statusEnum": 1,
+    "createdAt": "2025-02-19T03:10:52.5350723Z",
+    "updatedAt": "2025-02-19T03:10:52.5350727Z"
+  }
+]
